@@ -19,23 +19,23 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog where I write about the movies I have never seen before.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.neverbeforeseen.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: MichaelColby7
 github_username:  macolby42
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme:
 plugins:
   - jekyll-feed
 
-  defaults:
-    -
-      scope:
-        path: "" # an empty string here means all files in the project
-        type: "posts"
-      values:
-        layout: "default"
-        author: "Michael Colby"
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Michael Colby"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
