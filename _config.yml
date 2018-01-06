@@ -21,12 +21,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://macolby42.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MichaelColby7
 github_username:  macolby42
+google_analytics: UA-112022224-1
 
 # Build settings
 markdown: kramdown
+
+font-awesome:
+  assets: true
+
 #theme:
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-font-awesome-sass
 
 defaults:
   -

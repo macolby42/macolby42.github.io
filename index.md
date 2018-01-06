@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Welcome!
-permalink: /home/
 ---
 
 This is where I will be writing about the movies I watch in 2018. They will all
