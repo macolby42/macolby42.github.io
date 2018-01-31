@@ -20,12 +20,10 @@
   }
 }
 
-@mixin embed-font($edo){
-    @font-face{
-      font-family: $edo;
-      src: url('assets/fonts/edo.ttf') format('truetype')
-    }
-};
+@font-face{
+  font-family: edo;
+  src: url('/assets/fonts/edo.ttf');
+}
 
 * {
   box-sizing: border-box;
