@@ -1,6 +1,6 @@
 ---
 imgAlt: Whisper of the Heart
-imgLink:
+imgLink: https://upload.wikimedia.org/wikipedia/en/9/93/Whisper_of_the_Heart_%28Movie_Poster%29.jpg
 imgWidth:
 imgHeight:
 layout: post

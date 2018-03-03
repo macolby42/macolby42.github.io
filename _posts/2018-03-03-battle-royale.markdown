@@ -1,6 +1,6 @@
 ---
 imgAlt: Battle Royale
-imgLink:
+imgLink: http://asianwiki.com/images/f/f9/Battle_Royale-p3.jpg
 imgWidth:
 imgHeight:
 layout: post

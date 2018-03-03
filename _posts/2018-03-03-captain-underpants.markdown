@@ -1,6 +1,6 @@
 ---
 imgAlt: Captain Underpants
-imgLink:
+imgLink: https://upload.wikimedia.org/wikipedia/en/9/96/Captainunderpantscover.jpg
 imgWidth:
 imgHeight:
 layout: post
@@ -44,4 +44,4 @@ can really use on top of that mentioned previously. I think one of my favorite
 and more memorable moments in the movie is when it gets a little serious. The
 two boys end up taking the principal to his house where they (but really we) get
 a look into why the principal is the way he is. Thankfully this is a decent
-movie and that plays into the ending and resolution. 
+movie and that plays into the ending and resolution.
